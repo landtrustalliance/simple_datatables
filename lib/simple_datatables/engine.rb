@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'rails'
 require 'jsonify-rails'
-require 'meta_search'
+# require 'meta_search'
 
 module SimpleDatatables
   module Rails
